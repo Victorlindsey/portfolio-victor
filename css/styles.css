@@ -15,10 +15,21 @@ li{
   font-style: italic;
   color: red;
   text-align: left;
-  break-after:
+  break-after:20px;
 }
 .row1{
-  font-size:40px;
+  font-size: 40px;
+  font-style: italic;
+  font-family: cursive;
   color: blue;
-  text-align: center;
+  text-align: right;
+}
+.row2{
+  font-size: 40px;
+  font-style: italic;
+  font-family: cursive;
+  color: blue;
+  text-align: left;
+  align-self: baseline;
+  margin-top: -50px;
 }
