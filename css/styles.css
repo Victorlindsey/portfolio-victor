@@ -17,3 +17,8 @@ li{
   text-align: left;
   break-after:
 }
+.row1{
+  font-size:40px;
+  color: blue;
+  text-align: center;
+}
