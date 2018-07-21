@@ -19,6 +19,10 @@ h2{
   color: purple;
   background-color: black;
 }
-.col-md-3{
-  border-color: yellow;
+h3{
+  font-size: 47px;
+  font-family: cursive;
+  font-style: italic;
+  color: Yellow;
+  text-align: center;
 }
