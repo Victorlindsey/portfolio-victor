@@ -17,4 +17,8 @@ h2{
   font-family: cursive;
   font-style: italic;
   color: purple;
+  background-color: black;
+}
+.col-md-3{
+  border-color: yellow;
 }
