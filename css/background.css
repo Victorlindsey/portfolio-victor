@@ -37,3 +37,7 @@ h4{
   color: orange;
   text-align: center;
 }
+.foodsBg{
+  background-image: url("/home/victor/Desktop/portfolio/images/foodsBg.jpg");
+  height: 300px;
+}
